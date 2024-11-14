@@ -1,1 +1,27 @@
+body {
+  background-color: cornsilk;
+}
 
+img {
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+h1 {
+  color: #234e87;
+  font-family: Georgia, serif;
+}
+
+p {
+  color: sienna;
+  font-family: Helvetica, sans-serif;
+}
+
+a {
+  font-weight: bold;
+  color: olive;
+}
+
+a:hover {
+  color: seagreen;
+}
