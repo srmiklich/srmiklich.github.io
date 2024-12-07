@@ -1,1 +1,110 @@
+body {
+    background-color: #677a6e;
+    display: grid;
+    place-items: center;
+}
+
+p {
+    margin-top:-11px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 450%;
+    color:aliceblue;
+    transition: font-size .3s ease;
+}
+
+h2 {
+    margin-bottom:20px;
+}
+
+h3 {
+    margin-top:-10px;
+}
+
+h4 {
+    margin-top:-15px;
+    font-style:italic;
+    color:#748a7c
+
+}
+ul {
+    list-style-type: none;
+    padding: 10px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    border: 1px dashed rgb(38, 57, 45);
+    border-radius: 15px;
+    background-color:#c1cfc6
+}
+
+li {
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(38, 57, 45);
+    font-weight: bold;
+    transition: font-size .3s ease;
+}
+
+a:hover {
+    color:rgb(173, 202, 184);
+    font-size: 103%;
+}
+
+hr {
+   border: 0;
+   height: 2px;
+   background-color:aliceblue;
+   margin: 45px auto;
+   width: 200px;
+}
+
+h1:hover {
+    font-size: 458%;
+}
+
+.contactinformation {
+    padding: 0px 20px 10px;
+    margin: 0px 20px 50px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(38, 57, 45);
+    border-radius: 5px;
+    background-color:#a7bdaf
+}
+
+.education {
+    padding: 0px 20px 10px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(38, 57, 45);
+    border-radius: 5px;
+    background-color:#a7bdaf
+}
+
+.experience {
+    padding: 0px 20px 10px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(38, 57, 45);
+    border-radius: 5px;
+    background-color:#a7bdaf
+}
+
+.skills {
+    padding: 0px 20px 10px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(38, 57, 45);
+    border-radius: 5px;
+    background-color:#a7bdaf
+}
 
