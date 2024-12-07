@@ -113,5 +113,9 @@ h1:hover {
 
 img {
     padding: 50px;
-    max-height: 300px;
+    width: 200px; 
+    height: auto;  
+    max-width: 100%; 
+    display: block; 
+    margin: 0 auto;
 }
