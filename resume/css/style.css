@@ -83,31 +83,31 @@ h1:hover {
 
 .education {
     padding: 0px 20px 10px;
+    margin: 0px 20px 50px;
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:rgb(38, 57, 45);
     border-radius: 5px;
     background-color:#a7bdaf
-    margin-bottom: 20px;
 }
 
 .experience {
     padding: 0px 20px 10px;
+    margin: 0px 20px 50px;
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:rgb(38, 57, 45);
     border-radius: 5px;
     background-color:#a7bdaf
-    margin-bottom: 20px;
 }
 
 .skills {
     padding: 0px 20px 10px;
+    margin: 0px 20px 50px;
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:rgb(38, 57, 45);
     border-radius: 5px;
     background-color:#a7bdaf
-    margin-bottom: 20px;
 }
 
